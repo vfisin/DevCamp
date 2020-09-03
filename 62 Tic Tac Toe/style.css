@@ -1,0 +1,26 @@
+table {
+/*	border: 1px solid blue;*/
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+/*	border: 1px solid blue;*/
+}
+
+.horiz {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+
+.vert {
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
+
